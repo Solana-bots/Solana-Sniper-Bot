@@ -2,18 +2,6 @@
 
 In this article, I'll walk you through how to use **Solanasniper.space**, a powerful web-based sniper bot designed for the Solana network. Whether you're targeting new meme coins on platforms like **Pump.fun** or looking to maximize your trading profits, this guide covers everything you need to get started.
 
-## 📚 Table of Contents
-1. [Introduction](#introduction)
-2. [What is Pump.fun?](#what-is-pumpfun)
-3. [Why You Need a Trading Bot](#why-you-need-a-trading-bot)
-4. [Key Features of Solanasniper.space](#key-features-of-solanasniperspace)
-5. [Getting Started with Solanasniper.space](#getting-started-with-solanasniperspace)
-6. [Optimal Settings](#optimal-settings)
-7. [How to Use the Bot](#how-to-use-the-bot)
-8. [Conclusion](#conclusion)
-
----
-
 ## 🔍 Introduction
 If you're targeting newly released meme coins on the **Solana network**, particularly on platforms like **Pump.fun**, manual trading may not be efficient enough to capture early profits. This is where a **fully automated bot** comes into play, allowing you to act quickly and efficiently without constant monitoring.
 
