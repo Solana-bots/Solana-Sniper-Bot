@@ -1,4 +1,4 @@
-# 🚀 Fully Automated Trading with SolanaSniper.space on the Solana Network
+# 🚀 A Fast and Automated Trading Bot for Meme Coins on the Solana Network
 
 In this article, I'll walk you through how to use **Solanasniper.space**, a powerful web-based sniper bot designed for the Solana network. Whether you're targeting new meme coins on platforms like **Pump.fun** or looking to maximize your trading profits, this guide covers everything you need to get started.
 
